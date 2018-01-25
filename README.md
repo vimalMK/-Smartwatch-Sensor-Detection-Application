@@ -5,7 +5,7 @@ NodeJs/ Apache Cordova/ Java/ J2ME -
 In this application, we use a Microsoft Band smartwatch and an Android smartphone to detect fall. This application is written purely in Java. The architecture of a native Android application in Java for Fall Detection is shown below in figure 5.1.1 
 We used Android Studio to develop this application. The Android platform version used is 7.0. The Microsoft Band smartwatch is used to collect sensor data’s and render it on the Android App running on the smartphone.  As shown in Figure 5.1.1, the whole application is written in Java and interacting with the Microsoft MS Band SDK. The Microsoft MS Band SDK is a jar file which has to be included in the application library. The Fall Detection application relies on  WEKA’s machine learning algorithm  to predict the fall.
  
- ![alt text](https://github.com/vimalMK/Fall-Detection-Application-Using-Microsoft-Band-Watch.git/img.png)
+ ![alt text](https://github.com/vimalMK/Fall-Detection-Application-Using-Microsoft-Band-Watch/blob/master/Arc.jpg)
 
 
 	 Fig 5.1.1 Native Android Application in java for Fall Detection
