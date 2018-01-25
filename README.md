@@ -13,7 +13,7 @@ We used Android Studio to develop this application. The Android platform version
 WEKA  (Waikato Environment for Knowledge Analysis)  is a suite of machine learning software written in Java, developed at the University of Waikato, New Zealand. It is a free software licensed under the GNU General Public License [14]. WEKA contains visualizations tools and various machine learning algorithms, which help in data analysis and predictive modeling [15]. The fall detection application uses Support Vector Machines (SVM) to train the fall detection model.
 As discussed earlier, MainActivity.java is the entry point of this application. The MainActivity.java loads the layout and other dependent classes to be imported into the application. Figure 5.1.2 represents the folder structure of the native Android application in Java for Fall Detection. 
 
-  ![alt text](https://github.com/vimalMK/Fall-Detection-Application-Using-Microsoft-Band-Watch/blob/master/Arc1.jpg)
+  ![alt text](https://github.com/vimalMK/Fall-Detection-Application-Using-Microsoft-Band-Watch/blob/master/arch1.jpg)
 
 
                                    Fig 5.1.2 Native Android Application in java for Fall Detection 
